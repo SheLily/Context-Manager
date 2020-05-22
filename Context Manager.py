@@ -120,7 +120,7 @@ with Timer():
           super(Goat, self).__init__(name, weight, 'Меее')
           self.type_animal = 'Коза'
 
-  # temp = Animal('Vasya', 100, 'Гыгы', 'Человек')
+  # temp = Animal('Vasya', 100, 'Речь', 'Человек')
   # temp.eat()
 
   farm = [
